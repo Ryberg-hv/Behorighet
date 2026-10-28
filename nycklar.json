@@ -1,11 +1,26 @@
 {
   "v": 1,
-  "updated": 1793147938393,
+  "updated": 1793148141054,
   "keys": [
     {
       "id": "K-E8E0",
       "h": "e8e0a8c4ef248620fa2975cd7fad2bfdb36b2360ee2c6839abdcde19d9c95175",
       "lvl": "kompani"
+    },
+    {
+      "id": "K-7DAF",
+      "h": "7daf0dfdb75c694283a8829ca9077a9944a517561c14f32c4a12c8a57e526135",
+      "lvl": "kompani"
+    },
+    {
+      "id": "P-87D3",
+      "h": "87d375594ec8da4fdf5d349dc2fba011247767a73b86791fb3f615e37f8b5562",
+      "lvl": "pluton"
+    },
+    {
+      "id": "G-EEAE",
+      "h": "eeae109a636bde58e428d1f5ae574995142b8af5b98a7dc3c8b2d3a593fcaf1f",
+      "lvl": "grupp"
     }
   ]
 }
